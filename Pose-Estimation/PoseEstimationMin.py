@@ -6,8 +6,6 @@ mpDraw = mp.solutions.drawing_utils
 mpPose = mp.solutions.pose
 pose = mpPose.Pose()
 
-
-
 cap = cv2.VideoCapture('PoseVideos/Cricket Bowling.avi')
 
 pTime = 0
